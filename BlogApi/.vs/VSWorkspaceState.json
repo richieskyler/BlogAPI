@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Data",
+    "\\DataAccessLayer\\IRepositories",
+    "\\DataAccessLayer\\Repositories"
+  ],
+  "SelectedNode": "\\DataAccessLayer",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,1281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\servcies\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servcies\\likeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\unitofworkrepository\\unitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\unitofworkrepository\\unitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\servcies\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servcies\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\servcies\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servcies\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\servcies\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servcies\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\servcies\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servcies\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\servcies\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\servcies\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\mappermethods\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappermethods\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\mappermethods\\likemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappermethods\\likemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\mappermethods\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappermethods\\postmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\postdto\\createpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\createpostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\postdto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\commentdto\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\commentdto\\createcommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\mappermethods\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappermethods\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\unitofworkrepository\\iunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\unitofworkrepository\\iunitofworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\irepositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\mappermethods\\rolemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mappermethods\\rolemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\iservices\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\imappermethodsinterface\\irolemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\imappermethodsinterface\\irolemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\postdto\\updatepostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\updatepostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\categorydto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\categorydto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\categorydto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\categorydto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\categorydto\\deletecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\categorydto\\deletecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\categorydto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\categorydto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\commentdto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\commentdto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\commentdto\\deletecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\commentdto\\deletecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\commentdto\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\commentdto\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\likedto\\createlikerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\likedto\\createlikerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\likedto\\deletelikerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\likedto\\deletelikerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\likedto\\likedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\likedto\\likedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\imappermethodsinterface\\iusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\imappermethodsinterface\\iusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\userdto\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\userdto\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\roledto\\updaterolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\roledto\\updaterolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\userdto\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\userdto\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\roledto\\createrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\roledto\\createrolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\roledto\\deleterolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\roledto\\deleterolerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\userdto\\deleteuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\userdto\\deleteuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17870DF5-619D-416E-962F-60AA0278B2A6}|BlogApi\\BlogApi.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\imappermethodsinterface\\icategorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\imappermethodsinterface\\icategorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\imappermethodsinterface\\icommentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\imappermethodsinterface\\icommentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\imappermethodsinterface\\ilikemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\imappermethodsinterface\\ilikemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\imappermethodsinterface\\ipostmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\imappermethodsinterface\\ipostmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\domainlayer\\dto\\postdto\\deletepostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D17CF1-D523-4278-AF4B-438D4D22F0ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\dto\\postdto\\deletepostrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\iservices\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\iservices\\ilikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\ilikeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\businesslogiclayer\\iservices\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EF2054-A6B6-4DA0-86CF-4D62B4B4C8FC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\iservices\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\migrations\\20250308212513_addedusertypeidtoposttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20250308212513_addedusertypeidtoposttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\richard\\desktop\\c#\\c-\\repos\\apiprojects\\blogapi\\dataaccesslayer\\migrations\\20250308201348_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10208B4-41E5-4CDF-9F36-E3701692BB64}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20250308201348_initalmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T01:21:01.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:23:26.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LikeController.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\LikeController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\LikeController.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\LikeController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\LikeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:23:11.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:23:20.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:23:31.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Program.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Program.cs",
+              "RelativeToolTip": "BlogApi\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:19:23.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:23:01.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BlogApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BlogApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:22:49.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LikeService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\LikeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Servcies\\LikeService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\LikeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Servcies\\LikeService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:47:02.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\LikeRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\LikeRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\LikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T01:37:12.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:38:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\IRepositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\IRepositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\IRepositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:05:52.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWorkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\UnitOfWorkRepository\\UnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UnitOfWorkRepository\\UnitOfWorkRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\UnitOfWorkRepository\\UnitOfWorkRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\UnitOfWorkRepository\\UnitOfWorkRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:42:52.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Servcies\\UserService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Servcies\\UserService.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:49:46.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\RoleService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Servcies\\RoleService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\RoleService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Servcies\\RoleService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:51:44.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\PostService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Servcies\\PostService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\PostService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Servcies\\PostService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:49:03.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\CommentService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Servcies\\CommentService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\CommentService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Servcies\\CommentService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wBAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:46:39.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Servcies\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\Servcies\\CategoryService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Servcies\\CategoryService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:46:14.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\UserMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\MapperMethods\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\UserMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\MapperMethods\\UserMapper.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:52:52.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LikeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\LikeMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\MapperMethods\\LikeMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\LikeMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\MapperMethods\\LikeMapper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:52:29.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PostMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\PostMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\MapperMethods\\PostMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\PostMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\MapperMethods\\PostMapper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:03:56.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreatePostRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\CreatePostRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDto\\CreatePostRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\CreatePostRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDto\\CreatePostRequestDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:06:33.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\PostDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDto\\PostDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\PostDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDto\\PostDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:04:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Like.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Like.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Like.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:34:42.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Post.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Post.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:33:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Comment.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Comment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:37:13.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCommentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\CreateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CommentDto\\CreateCommentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\CreateCommentRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CommentDto\\CreateCommentRequestDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:43:33.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\MapperMethods\\CommentMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\CommentMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\MapperMethods\\CommentMapper.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:52:16.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWorkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\UnitOfWorkRepository\\IUnitOfWorkRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UnitOfWorkRepository\\IUnitOfWorkRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\UnitOfWorkRepository\\IUnitOfWorkRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\UnitOfWorkRepository\\IUnitOfWorkRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:23:05.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\IRepositories\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\IRepositories\\IRoleRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\IRepositories\\IRoleRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAlwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:58:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:40:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\RoleMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\MapperMethods\\RoleMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\MapperMethods\\RoleMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\MapperMethods\\RoleMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:53:05.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\RoleDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\RoleDto\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\RoleDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\RoleDto\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:17:09.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\IRoleService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\IRoleService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\IRoleService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:35:46.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRoleMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\IRoleMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IMapperMethodsInterface\\IRoleMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\IRoleMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IMapperMethodsInterface\\IRoleMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:40:15.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:15:07.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdatePostRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\UpdatePostRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDto\\UpdatePostRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\UpdatePostRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDto\\UpdatePostRequestDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:09:20.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CategoryDto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\CategoryDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CategoryDto\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:55:05.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CategoryDto\\CreateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CategoryDto\\CreateCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:55:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\DeleteCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CategoryDto\\DeleteCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\DeleteCategoryRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CategoryDto\\DeleteCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:35:46.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\UpdateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CategoryDto\\UpdateCategoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CategoryDto\\UpdateCategoryRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CategoryDto\\UpdateCategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:37:45.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\CommentDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CommentDto\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\CommentDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CommentDto\\CommentDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA7wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:40:14.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DeleteCommentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\DeleteCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CommentDto\\DeleteCommentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\DeleteCommentRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CommentDto\\DeleteCommentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:45:48.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateCommentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\UpdateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\CommentDto\\UpdateCommentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\CommentDto\\UpdateCommentRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\CommentDto\\UpdateCommentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:47:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateLikeRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\LikeDto\\CreateLikeRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\LikeDto\\CreateLikeRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\LikeDto\\CreateLikeRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\LikeDto\\CreateLikeRequestDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:24:28.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DeleteLikeRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\LikeDto\\DeleteLikeRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\LikeDto\\DeleteLikeRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\LikeDto\\DeleteLikeRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\LikeDto\\DeleteLikeRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:27:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LikeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\LikeDto\\LikeDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\LikeDto\\LikeDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\LikeDto\\LikeDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\LikeDto\\LikeDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:22:07.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\IUserMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IMapperMethodsInterface\\IUserMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\IUserMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IMapperMethodsInterface\\IUserMapper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:39:53.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:34:35.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\UserDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\UserDto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\UserDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\UserDto\\UserDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:11:03.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UpdateUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\UpdateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\UserDto\\UpdateUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\UpdateUserRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\UserDto\\UpdateUserRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:14:53.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateRoleRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\UpdateRoleRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\RoleDto\\UpdateRoleRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\UpdateRoleRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\RoleDto\\UpdateRoleRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:20:41.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CreateUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\CreateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\UserDto\\CreateUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\CreateUserRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\UserDto\\CreateUserRequestDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:14:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateRoleRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\CreateRoleRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\RoleDto\\CreateRoleRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\CreateRoleRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\RoleDto\\CreateRoleRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:19:03.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Role.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:56:09.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\BaseModel.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:36:11.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\User.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:55:47.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DeleteRoleRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\DeleteRoleRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\RoleDto\\DeleteRoleRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\RoleDto\\DeleteRoleRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\RoleDto\\DeleteRoleRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:20:11.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DeleteUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\DeleteUserRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\UserDto\\DeleteUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\UserDto\\DeleteUserRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\UserDto\\DeleteUserRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:16:10.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:25:18.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CommentRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:41:48.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\PostRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAnwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T01:37:54.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\Models\\Category.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T00:32:28.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250308212513_AddedUserTypeIdToPostTable.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Migrations\\20250308212513_AddedUserTypeIdToPostTable.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250308212513_AddedUserTypeIdToPostTable.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Migrations\\20250308212513_AddedUserTypeIdToPostTable.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250308212513_AddedUserTypeIdToPostTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:25:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BlogApi\\appsettings.json",
+              "RelativeToolTip": "BlogApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T20:15:14.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250308201348_InitalMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Migrations\\20250308201348_InitalMigration.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20250308201348_InitalMigration.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\Migrations\\20250308201348_InitalMigration.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20250308201348_InitalMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:13:55.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IPostMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\IPostMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IMapperMethodsInterface\\IPostMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\IPostMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IMapperMethodsInterface\\IPostMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:39:26.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ILikeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\ILikeMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IMapperMethodsInterface\\ILikeMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\ILikeMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IMapperMethodsInterface\\ILikeMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:38:54.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ICommentMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\ICommentMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IMapperMethodsInterface\\ICommentMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\ICommentMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IMapperMethodsInterface\\ICommentMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:38:31.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ICategoryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\ICategoryMapper.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IMapperMethodsInterface\\ICategoryMapper.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IMapperMethodsInterface\\ICategoryMapper.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IMapperMethodsInterface\\ICategoryMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:16:03.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:31:08.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DeletePostRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\DeletePostRequestDto.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\DTO\\PostDto\\DeletePostRequestDto.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DTO\\PostDto\\DeletePostRequestDto.cs",
+              "RelativeToolTip": "DomainLayer\\DTO\\PostDto\\DeletePostRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:08:15.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\IPostService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\IPostService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\IPostService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\IPostService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:33:51.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ILikeService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\ILikeService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\ILikeService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\ILikeService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\ILikeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:32:57.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\ICommentService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\IServices\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\IServices\\ICommentService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\IServices\\ICommentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:32:14.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
