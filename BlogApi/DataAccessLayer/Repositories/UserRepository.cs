@@ -77,6 +77,18 @@ namespace DataAccessLayer.Repositories
             return user;
         }
 
-       
+
+        public async Task<User?> Authenticate(string email, string password)
+        {
+            var user = await _userManager.FindByEmailAsync(email);
+            if (user == null)
+            {
+                return null;
+            }
+
+            var isPasswordValid = await _userManager.CheckPasswordAsync(user, password);
+            return isPasswordValid ? user : null;
+        }
+
     }
 }

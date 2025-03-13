@@ -7,6 +7,7 @@ using BusinessLogicLayer.IServices;
 using DataAccessLayer.IRepositories;
 using DataAccessLayer.Models;
 using DataAccessLayer.Repositories;
+using DomainLayer.DTO.UserDto;
 using DomainLayer.Models;
 
 namespace BusinessLogicLayer.Servcies
@@ -102,31 +103,31 @@ namespace BusinessLogicLayer.Servcies
         {
             if (string.IsNullOrWhiteSpace(user.Id))
             {
-                
+
                 return null;
             }
 
             if (string.IsNullOrWhiteSpace(user.FirstName))
             {
-                
+
                 return null;
             }
 
             if (string.IsNullOrWhiteSpace(user.SecondName))
             {
-                
+
                 return null;
             }
 
             if (string.IsNullOrWhiteSpace(user.Email))
             {
-                
+
                 return null;
             }
 
             if (string.IsNullOrWhiteSpace(user.RoleId))
             {
-                
+
                 return null;
             }
 
@@ -141,12 +142,27 @@ namespace BusinessLogicLayer.Servcies
 
             if (updatedUser == null)
             {
-                
+
                 return null;
             }
 
-            
+
             return updatedUser;
         }
+
+
+            //function to login a user
+        public async Task<User?> AuthenticateUser(LoginUserDto loginDto)
+        {
+            if (string.IsNullOrEmpty(loginDto.Email) || string.IsNullOrEmpty(loginDto.Password))
+            {
+                return null;
+            }
+
+            return await _userRepository.Authenticate(loginDto.Email, loginDto.Password);
+        }
+
+        
     }
+    
 }

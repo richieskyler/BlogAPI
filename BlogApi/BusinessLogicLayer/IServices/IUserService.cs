@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DataAccessLayer.Models;
+using DomainLayer.DTO.UserDto;
 using DomainLayer.Models;
 
 namespace BusinessLogicLayer.IServices
@@ -46,6 +47,13 @@ namespace BusinessLogicLayer.IServices
         /// <param name="user"></param>
         /// <returns>Create a new User object</returns>
         Task<User?> CreateUser(User user);
+
+        /// <summary>
+        /// Authenticates a user based on the provided login credentials.
+        /// </summary>
+        /// <param name="loginDto">The login credentials provided by the user.</param>
+        /// <returns>A task that resolves to the authenticated user if successful, otherwise null.</returns>
+        Task<User?> AuthenticateUser(LoginUserDto loginDto);
 
     }
 }

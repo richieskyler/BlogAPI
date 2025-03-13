@@ -38,5 +38,6 @@ namespace BusinessLogicLayer.IMapperMethodsInterface
         /// <param name="deleteUserRequestDto"></param>
         /// <returns></returns>
         public User MapDeleteUserRequestDtoToUser(DeleteUserRequestDto deleteUserRequestDto);
+        object MapUserLoginToUserDto<T>(User user);
     }
 }

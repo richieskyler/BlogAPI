@@ -61,5 +61,17 @@ namespace BusinessLogicLayer.MapperMethods
                 UpdatedAt = user.UpdateAt
             };
         }
+
+        public object MapUserLoginToUserDto<T>(User user)
+        {
+            return new UserDto
+            {
+                FirstName = user.FirstName,
+                Email = user.Email,
+                SecondName = user.SecondName,
+                RoleId = user.RoleId,
+                
+            };
+        }
     }
 }

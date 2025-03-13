@@ -42,5 +42,14 @@ namespace DataAccessLayer.IRepositories
         /// <param name="id"></param>
         /// <returns>User Object by Id</returns>
         Task<User?> User(string id);
+
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="email"></param>
+        /// <param name="password"></param>
+        /// <returns></returns>
+        Task<User?> Authenticate(string email, string password);
     }
 }

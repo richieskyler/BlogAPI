@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
+    "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+    "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
         "projectName": "BusinessLogicLayer",
-        "projectPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-        "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\BusinessLogicLayer\\obj\\",
+        "projectPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\richard.oloyede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\richard.oloyede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -57,6 +57,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -82,20 +86,20 @@
         }
       }
     },
-    "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\richard.oloyede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\richard.oloyede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -110,8 +114,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -132,6 +136,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"
@@ -171,20 +179,20 @@
         }
       }
     },
-    "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\DomainLayer.csproj",
-        "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richard\\Desktop\\C#\\c-\\repos\\ApiProjects\\BlogApi\\DomainLayer\\obj\\",
+        "projectPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\DomainLayer.csproj",
+        "packagesPath": "C:\\Users\\richard.oloyede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\richard.oloyede\\Desktop\\Blog\\BlogAPI\\BlogApi\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\richard.oloyede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -217,6 +225,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"

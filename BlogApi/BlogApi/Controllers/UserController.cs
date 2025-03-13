@@ -1,5 +1,7 @@
 ﻿using BusinessLogicLayer.IMapperMethodsInterface;
 using BusinessLogicLayer.IServices;
+using BusinessLogicLayer.Servcies;
+
 //using BusinessLogicLayer.UnitOfWorkService;
 using DataAccessLayer.Models;
 using DomainLayer.DTO.UserDto;
@@ -15,11 +17,13 @@ namespace BlogApi.Controllers
     {
             public readonly IUserService _service;
             public readonly IUserMapper _userMapper;
+            public readonly AuthService _authService;
 
-            public UserController(IUserService iUserService, IUserMapper userMapper)
+        public UserController(IUserService iUserService, IUserMapper userMapper, AuthService authService )
             {
                 _service = iUserService;
                 _userMapper = userMapper;
+                _authService = authService;
             }
 
             // Retrieves all Userts and returns them as a list.
@@ -86,5 +90,28 @@ namespace BlogApi.Controllers
             }
             return Ok(userDeleted);
         }
+
+        // Endpoint for user login
+        [HttpPost]
+        public async Task<IActionResult> Login([FromBody] LoginUserDto loginDto)
+        {
+            var user = await _service.AuthenticateUser(loginDto);
+            if (user == null)
+            {
+                return Unauthorized(new { Message = "Invalid email or password" });
+            }
+
+            // Generate JWT token using the AuthService
+            var token = _authService.GenerateJwtToken(user);
+
+            return Ok(new
+            {
+                Token = token,
+                User = _userMapper.MapUserLoginToUserDto<UserDto>(user)
+            });
+        }
+
+
+
     }
 }
